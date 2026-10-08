@@ -1,3 +1,5 @@
+> **Moved.** This package now lives in [mark1russell7/client](https://github.com/mark1russell7/client/tree/main/packages/client-server-mongo), with its full history. This repository is archived.
+
 # @mark1russell7/client-server-mongo
 
 MongoDB server lifecycle management procedures. Start, stop, and monitor MongoDB peer servers that expose `client-mongo` procedures via HTTP.
